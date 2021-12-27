@@ -1,6 +1,6 @@
 # Credit Scoring
 
-## Задача представлена в качестве соревнованя на [Kaggle](https://www.kaggle.com/c/sf-scoring)
+## Задача представлена в виде соревнованя на [Kaggle](https://www.kaggle.com/c/sf-scoring)
 
 ## Описание задачи
 
